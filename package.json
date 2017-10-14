@@ -1,0 +1,28 @@
+{
+  "name": "vvpcs-initial-test",
+  "version": "1.0.0",
+  "description": "Test whether a Vue component makes a good node_module",
+  "main": "InitialTest.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richplastow/vvpcs-initial-test.git"
+  },
+  "keywords": [
+    "vvpcs",
+    "vue",
+    "veux",
+    "pug",
+    "coffee",
+    "stylus",
+    "component"
+  ],
+  "author": "Rich Plastow <rich@richplastow.com> (http://richplastow.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richplastow/vvpcs-initial-test/issues"
+  },
+  "homepage": "https://github.com/richplastow/vvpcs-initial-test#readme"
+}
